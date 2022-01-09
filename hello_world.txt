@@ -1,0 +1,2 @@
+Hello this is my first text file using git hub and the terminal
+Im not to sure exactly what im doing but i am doing it so i feel good!
